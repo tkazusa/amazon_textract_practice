@@ -1,4 +1,4 @@
-# amazon_textract_practice
+# Amazon textract practice
 A brief example for [Amazon textract](https://aws.amazon.com/jp/textract/) drawing detected objects on the original document.
 
 ## Requirements
